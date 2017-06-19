@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZonalDesk</string>
+    <string name="verify_plz">Please enter the verification code.</string>
+    <string name="no_otp">Didn\'t recieve the OTP?</string>
+</resources>
